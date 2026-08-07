@@ -1,11 +1,15 @@
 ---
-title: soooooollee
-description: A California-based geek working on AI agents and cybersecurity.
+title: Sol Lee
+description: A West Coast kind of guy who loves and hates caffeine and likes building useful things.
 ---
 
-# soooooollee
+# Sol Lee
 
-A California-based geek who surfs, drinks coffee, and builds useful things. 😎 🏄‍♂️ ☕
+A West Coast kind of guy.
+
+I love caffeine. I hate caffeine.
+
+I like building useful things. 😎 🏄‍♂️ ☕
 
 I work on AI agents and cybersecurity.
 
